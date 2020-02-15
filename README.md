@@ -15,9 +15,9 @@ This repo re-create examples of Klaus Iglberger's presentaion in [Cppcon 2019](h
 * Part 2
     1. [The perils of forwarding references](https://github.com/Brandon-HY-Lin/cpp_move_sematics/tree/master/part2/the_perils_of_forwarding_references) on page 47.
     1. Overloading with forwarding references 
-        a. [Pass by LValue Reference](https://github.com/Brandon-HY-Lin/cpp_move_sematics/tree/master/part2/overloading_with_forwarding_references/example_1_lvalue_ref) on page 50.
-        b. [Pass by LValue Reference-to-Const](https://github.com/Brandon-HY-Lin/cpp_move_sematics/tree/master/part2/overloading_with_forwarding_references/example_2_lvalue_ref_to_const) on page 51.
-        c. [Pass by RValue Reference](https://github.com/Brandon-HY-Lin/cpp_move_sematics/tree/master/part2/overloading_with_forwarding_references/example_3_rvalue_ref) on page 52.
-        d. [Pass by RValue Reference-to-Const](https://github.com/Brandon-HY-Lin/cpp_move_sematics/tree/master/part2/overloading_with_forwarding_references/example_4_rvalue_ref_to_const) on page 53.
+        - [Pass by LValue Reference](https://github.com/Brandon-HY-Lin/cpp_move_sematics/tree/master/part2/overloading_with_forwarding_references/example_1_lvalue_ref) on page 50.
+        - [Pass by LValue Reference-to-Const](https://github.com/Brandon-HY-Lin/cpp_move_sematics/tree/master/part2/overloading_with_forwarding_references/example_2_lvalue_ref_to_const) on page 51.
+        - [Pass by RValue Reference](https://github.com/Brandon-HY-Lin/cpp_move_sematics/tree/master/part2/overloading_with_forwarding_references/example_3_rvalue_ref) on page 52.
+        - [Pass by RValue Reference-to-Const](https://github.com/Brandon-HY-Lin/cpp_move_sematics/tree/master/part2/overloading_with_forwarding_references/example_4_rvalue_ref_to_const) on page 53.
 
 
